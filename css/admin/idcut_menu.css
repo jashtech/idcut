@@ -1,0 +1,11 @@
+i.icon-AdminIDcutDealDefinition,
+#nav-sidebar ul.menu li.maintab>a.title i.icon-AdminIDcutDealDefinition{
+    
+}
+i.icon-AdminIDcutDealDefinition{
+    height: 19px;
+    background: transparent url("../../logo.gif") no-repeat;
+    display: inline-block;
+    line-height: 1px;
+    vertical-align: middle!important;
+}

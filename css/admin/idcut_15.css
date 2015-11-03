@@ -1,0 +1,14 @@
+.col-lg-5{
+    width: 40%;
+    display: inline-block;
+}
+.col-lg-2{
+    width: 18%;
+    display: inline-block;
+}
+.icon-check span.hidden,
+.icon-remove span.hidden,
+.process-icon-new span.hidden,
+.process-icon-cancel span.hidden{
+    display: inline;
+}
